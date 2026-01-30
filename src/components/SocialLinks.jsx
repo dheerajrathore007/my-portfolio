@@ -72,7 +72,7 @@ export default function SocialLinks() {
 
           {/* WhatsApp (Prefilled Message) */}
           <a
-            href="https://wa.me/91XXXXXXXXXX?text=Hi%20Dheeraj,%20I%E2%80%99d%20like%20to%20connect%20with%20you%20regarding%20opportunities."
+            href="https://wa.me/916261672551?text=Hi%20Dheeraj,%20I%E2%80%99d%20like%20to%20connect%20with%20you%20regarding%20opportunities."
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
