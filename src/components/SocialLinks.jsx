@@ -6,14 +6,8 @@ export default function SocialLinks() {
       <div className="max-w-5xl mx-auto px-4 text-center">
 
         {/* Heading */}
-        <h2
-          className="
-            text-3xl font-bold mb-4
-            text-white-800 dark:text-black
-          "
-        >
-          🤝 Let’s Connect
-        </h2>
+
+        <h2 className="text-3xl font-bold mb-8">🤝 Let’s Connect</h2>
 
         <p className="text-gray-600 dark:text-gray-400 mb-10">
           Feel free to connect with me on social platforms
