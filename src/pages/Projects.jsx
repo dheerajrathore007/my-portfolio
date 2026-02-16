@@ -2,8 +2,14 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    title: "Vitals Kingdom – E-Commerce Website",
+    desc: "Production-ready e-commerce website with product listing, cart management, and responsive UI for a real business.",
+    tech: "React, Redux Toolkit, Tailwind CSS, MongoDB",
+    github: "https://github.com/dheerajrathore007/rbac-application",
+    live: "https://vitalskingdom.com",
+  },
+  {
     title: "RBAC Admin Dashboard",
-    desc: "Product listing, cart management using Redux Toolkit.",
     desc: "Responsive dashboard layout with charts and tables.",
     tech: "React, Redux, Tailwind CSS",
     github: "https://github.com/dheerajrathore007/rbac-application1",
@@ -28,7 +34,7 @@ const projects = [
 export default function Projects() {
   return (
     <section className="max-w-6xl mx-auto py-20 px-4">
-      
+
       {/* Section Title Animation */}
       <motion.h2
         initial={{ opacity: 0, y: 30 }}
