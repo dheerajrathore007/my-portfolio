@@ -1,13 +1,13 @@
 import { motion } from "framer-motion";
 
 const projects = [
-  {
-    title: "Vitals Kingdom – E-Commerce Website",
-    desc: "Production-ready e-commerce website with product listing, cart management, and responsive UI for a real business.",
-    tech: "React, Redux Toolkit, Tailwind CSS, MongoDB",
-    github: "https://github.com/dheerajrathore007/rbac-application",
-    live: "https://vitalskingdom.com",
-  },
+  // {
+  //   title: "Vitals Kingdom – E-Commerce Website",
+  //   desc: "Production-ready e-commerce website with product listing, cart management, and responsive UI for a real business.",
+  //   tech: "React, Redux Toolkit, Tailwind CSS, MongoDB",
+  //   github: "https://github.com/dheerajrathore007/rbac-application",
+  //   live: "https://vitalskingdom.com",
+  // },
   {
     title: "RBAC Admin Dashboard",
     desc: "Responsive dashboard layout with charts and tables.",

@@ -21,7 +21,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-4 text-lg">
-            Frontend React Developer with 2+ Years Experience
+            Frontend React Developer
           </p>
 
           <p className="mt-2">
