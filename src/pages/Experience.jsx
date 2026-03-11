@@ -7,19 +7,19 @@ const experience = [
     time: "July 2025 – Present",
     desc: "Developed reusable and high-performance React components with optimized rendering and lazy loading. Integrated REST APIs using Axios with Redux and React Hooks for state management. Converted Figma designs into responsive, pixel-perfect UIs using Tailwind CSS and Bootstrap, while collaborating with backend teams in Agile environments using Git/GitHub.",
   },
-  {
-    role: "Customer Care Executive",
-    company: "Teleperformance global Pvt. Ltd.",
-    time: "April 2024 – June 2025",
-    desc: "handling customer concerns and complaints in a timely manner"
-    // desc: "Tested React interfaces to identify layout, performance, and cross-browser issues. Verified builds, supported deployments, and documented UI defects while assisting QA teams in manual testing across Chrome, Firefox, and Edge.",
-  },
-  //  {
-  //   role: "Trainee Software Developer (Intern)",
-  //   company: "TaskCraft Technologies pvt. Ltd.",
-  //   time: "July 2023 – Dec 2023",
-  //   desc: "Built responsive UI components using HTML, CSS, JavaScript, and React.js. Assisted with API integration, debugging, and performance optimization while working in Agile teams using Git/GitHub and supporting testing and clean, maintainable code.",
+  // {
+  //   role: "Customer Care Executive",
+  //   company: "Teleperformance global Pvt. Ltd.",
+  //   time: "April 2024 – June 2025",
+  //   desc: "handling customer concerns and complaints in a timely manner"
+  //   // desc: "Tested React interfaces to identify layout, performance, and cross-browser issues. Verified builds, supported deployments, and documented UI defects while assisting QA teams in manual testing across Chrome, Firefox, and Edge.",
   // },
+   {
+    role: "Trainee Software Developer (Intern)",
+    company: "TaskCraft Technologies pvt. Ltd.",
+    time: "sept 2024 – mar 2025",
+    desc: "Built responsive UI components using HTML, CSS, JavaScript, and React.js. Assisted with API integration, debugging, and performance optimization while working in Agile teams using Git/GitHub and supporting testing and clean, maintainable code.",
+  },
 ];
 
 export default function Experience() {
